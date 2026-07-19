@@ -1,0 +1,1 @@
+export const AUDIENCES = ["General Audience", "Students", "Developers", "Software Engineers", "Business Professionals", "Entrepreneurs", "Researchers", "Educators", "Teachers", "HR Professionals", "Recruiters", "Marketing Teams", "Designers", "Product Managers", "Customer Support Teams", "Content Creators", "Healthcare Professionals", "Financial Professionals"] as const;

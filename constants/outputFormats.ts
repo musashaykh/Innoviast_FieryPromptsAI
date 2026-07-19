@@ -1,0 +1,1 @@
+export const OUTPUT_FORMATS = ["Markdown", "Plain Text", "Bullet Points", "Numbered List", "Table", "JSON", "HTML", "XML", "YAML", "CSV", "Code", "Step-by-Step Guide", "Checklist", "Report", "Documentation"] as const;

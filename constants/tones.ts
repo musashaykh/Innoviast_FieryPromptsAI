@@ -1,0 +1,1 @@
+export const TONES = ["Professional", "Formal", "Friendly", "Casual", "Technical", "Creative", "Persuasive", "Inspirational", "Confident", "Minimal", "Luxury", "Educational", "Analytical", "Storytelling", "Humorous"] as const;

@@ -108,7 +108,7 @@ npm run dev
 Open
 
 ```
-http://localhost:3000
+https://innoviast-fiery-prompts-ai.vercel.app/
 ```
 
 ---
